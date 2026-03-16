@@ -27,10 +27,5 @@ Microsoft Excel | Pivot Tables | Pivot Charts | Power Pivot | DAX | Data Analysi
 - Average waiting time analysis  
 - Gender distribution of patients  
 - Department referral trends
-- ## Project Preview
-## Dashboard Preview
-![Dashboard](Healthcare excel dashboard.png)
 
-## 
-![Table](Tableview.png)
 
